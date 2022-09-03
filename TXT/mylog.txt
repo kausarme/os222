@@ -3,11 +3,13 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  30 L00 General, etc.
 ZCZC W00  30 L01 SCELE/Discord related
-ZCZC W00  80 L02 ZOOM meetings related
-ZCZC W00  10 L03 GitHub related
-ZCZC W00  10 L04 GitHub Pages related
-ZCZC W00  10 L05 QUIZ
-ZCZC W00  80 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W00 100 L09 Weekly Assignments
+ZCZC W00 220 L02 ZOOM meetings related
+ZCZC W00  20 L03 GitHub related
+ZCZC W00  20 L04 GitHub Pages related
+ZCZC W00  30 L05 QUIZ
+ZCZC W00 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00  80 L09 Weekly Assignments
+ZCZC w00 100 L15 Assignment #05: Reading Assignments
 ZCZC W00  10 L41 TXT/mylog.txt related.
 ZCZC W00  50 L61 Install Virtual Box
+ZCZC W00  10 L64 Helping A Friend
