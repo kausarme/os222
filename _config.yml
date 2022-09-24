@@ -3,18 +3,18 @@
 title: "Operating Systems 2022-2 (ODD Semester 2021/2022)"
 description: "Website Sistem Operasi Kausar Meutuwah"
 baseurl: /os222
-url: https://kausarme.github.io/os222/
+url: "https://kausarme.github.io/os222/"
 
-copyright_year:2022
+copyright_year : 2022
 
 author: "Kausar Meutuwah"
 address: "Depok"
-sitemap:"true"
+sitemap: "true"
 
-repository:"https://github.com/kausarme/os222/"
-urlweb:"https://kausarme.github.io/os222/"
-urlgithub:"https://github.com/kausarme/os222/"
-urlghpage:"https://kausarme.github.io/os222/"
+repository: "https://github.com/kausarme/os222/"
+urlweb: "https://kausarme.github.io/os222/"
+urlgithub: "https://github.com/kausarme/os222/"
+urlghpage: "https://kausarme.github.io/os222/"
 
-theme:cayman
+theme: cayman
 
