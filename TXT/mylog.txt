@@ -39,4 +39,11 @@ ZCZC W02  10 L41 TXT/mylog.txt related.
 ZCZC W02  20 L42 TXT/mypubkey.txt related. See also L27.
 ZCZC W02  30 L43 TXT/myrank.tex related, including peer review.
 ZCZC W02  20 L64 Helping A Friend
-ZCZC W03 200 L02 Zoom meetings related
+ZCZC W03 200 L00 General and Offline Class
+ZCZC W03  50 L01 Checking and Recheking Scele
+ZCZC W03 110 L02 Zoom Meeting Related
+ZCZC W03  50 L04 Improve pages 
+ZCZC W03  80 L05 Preparing and doing Quiz week 03
+ZCZC W03  40 L08 OS Chat related
+ZCZC W03 150 L09 Weekly Assignments 3
+ZCZC W03  40 L64 Helping friend with OS assignments
