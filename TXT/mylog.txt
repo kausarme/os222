@@ -47,3 +47,11 @@ ZCZC W03  80 L05 Preparing and doing Quiz week 03
 ZCZC W03  40 L08 OS Chat related
 ZCZC W03 150 L09 Weekly Assignments 3
 ZCZC W03  40 L64 Helping friend with OS assignments
+ZCZC W04 180 L00 General and Offline Class
+ZCZC W04  50 L01 Checking and Recheking Scele
+ZCZC W04 120 L02 Zoom Meeting Related
+ZCZC W04  90 L04 Improve pages
+ZCZC W04 100 L05 Preparing and doing Quiz week 03
+ZCZC W04  60 L08 OS Chat related
+ZCZC W04 100 L09 Weekly Assignments 3
+ZCZC W04  45 L64 Helping friend with OS assignments
