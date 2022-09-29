@@ -4,7 +4,6 @@ title: Links
 description: berisi links links yang dikumpulkan untuk OS222.
 permalink: /LINKS/
 ---
-<link rel="stylesheet" href="css/style.css">
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---

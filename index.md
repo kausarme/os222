@@ -9,12 +9,12 @@ description: Ini adalah halaman utama dari Github Page untuk repo OS222 Kausar M
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
 <br><br>
-[![Repo commits](https://badgen.net/github/commits/kausarme/os222)](https://github.com/kausarme/os222/commits/master)
-[![Repo latest commit](https://img.shields.io/github/last-commit/kausarme/os222)](https://github.com/kausamr/os222/commits/master)
+[![Repo commits](https://badgen.net/github/commits/kausarme/os222)](https://github.com/kausarme/os222/commits/main)
+[![Repo latest commit](https://img.shields.io/github/last-commit/kausarme/os222)](https://github.com/kausamr/os222/commits/main)
 
 
 <br>
-[LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [RANK](TXT/myrank.txt) | [REPOSITORY](https://github.com/sabynn/os212)
+[LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [RANK](TXT/myrank.txt) | [REPOSITORY](https://github.com/kausarme/os222)
 
 <br>
 <hr>
