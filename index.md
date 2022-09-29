@@ -1,5 +1,9 @@
 ---
+layout: markdown
+title: Halaman Utama
+description: Ini adalah halaman utama dari Github Page untuk repo OS222 Kausar Meutuwah.
 ---
+<link rel="stylesheet" href="css/style.css">
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 <hr>
