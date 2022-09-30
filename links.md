@@ -54,22 +54,53 @@ If you're anything like me, you might need some reminder.
 Here some a link to an AWK Tutorial.
 
 ## W02 
+
 1. [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn](https://www.youtube.com/watch?v=inWWhr5tnEA)<br>
 Cyber Security. Wtf is that? Well, if you don't know, Here is a link about it.
 You should check it because this week has a lot of stuff mentioning cyber security.
 
+2. [Learn C](https://www.learn-c.org/)<br>
+This is a good site for people who want to learn about C with some basic exercises. 
+This site also lets you run the code on the website and see the output of your code.
+
 ## W03
+
 1. [FUSE - The Linux Kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 This week we learn about file system. Linux also use a file system, it is called FUSE.
 This article have documentation about the definition and commands that is in FUSE.
 Should you be interested in learning about Linux File System this article is definitely something you should check.
 
+2. [What is a User Account?](https://www.howtogeek.com/school/windows-network-sharing/lesson1/)<br>
+A user account is a collection of settings and information that tells Windows which files and folders you can access,
+what you can do on your computer, what are your preferences, and what network resources you can access when connected to a network.
+
+3. [Virtual filesystems in Linux](https://opensource.com/article/19/3/virtual-filesystems-linux)<br>
+Virtual filesystems are the magic abstraction that makes the **"everything is a file"** philosophy of Linux possible.
+
 ## W04
+
 1. [What is memory mapping in Linux?](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)<br>
 Memory Mapping is a really interesting feature that is used in a Unix System. 
 This Article explain it really well despite its compact size.
 Try to read it if you have the time Thanks.
 
+2. [Difference between Compile Time and Load Time address Binding](https://www.geeksforgeeks.org/difference-between-compile-time-and-load-time-address-binding/)<br>
+Penjelasan terkait perbedaan antara address binding tipe compile time dengan load time.
+
+3. [Address space](https://www.ibm.com/docs/en/zos-basic-skills?topic=storage-what-is-address-space)<br>
+The range of virtual addresses that the operating system assigns to a user or separately running program is called an address space.
+This is the area of contiguous virtual addresses available for executing instructions and storing data
+
+4. [Dynamic & Static Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)<br>
+Linking is the process of bringing external programs together required by the one we write for its successful execution.
+Static and dynamic linking are two processes of collecting and combining multiple object files in order to create a single executable.
+Here we will discuss the difference between them.
+
+5. [More about Dynamic & Static Linking](https://cs-fundamentals.com/c-programming/static-and-dynamic-linking-in-c.php)<br>
+Linker is system software which plays crucial role in software development because it enables separate compilation.
+Instead of organizing a large application as one monolithic source file, you can decompose it into smaller, more manageable
+chunks that can be modified and compiled separately. When you change one of the modules, you simply recompile it
+and re-link the application, without recompiling the other source files.
 
 ## Others
 
