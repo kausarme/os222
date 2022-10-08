@@ -102,6 +102,17 @@ Instead of organizing a large application as one monolithic source file, you can
 chunks that can be modified and compiled separately. When you change one of the modules, you simply recompile it
 and re-link the application, without recompiling the other source files.
 
+## W05 
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+This article explains about virtual memory. I deem it very helpful for this week lecture.
+
+2. [Page-Buffering Algorithms](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+Page buffering algorithm is an algorithm that is really important for virtual memory. You can learn about it in this link.
+
+3. [Memory Allocation Algorithms](https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/doc/html/interprocess/memory_algorithms.html)<br>
+Memory Allocation algorithm is an advanced algorithm using Red-Black tree. This allows logarithmic complexity allocation. 
+You could learn more about it in this link.
+
 ## Others
 
 1. [DOTA2](https://www.dota2.com/)<br>
