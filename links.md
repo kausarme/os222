@@ -113,6 +113,17 @@ Page buffering algorithm is an algorithm that is really important for virtual me
 Memory Allocation algorithm is an advanced algorithm using Red-Black tree. This allows logarithmic complexity allocation. 
 You could learn more about it in this link.
 
+## W06
+
+1. [How to Running Processes in Linux](https://www.hostinger.com/tutorials/vps/how-to-manage-processes-in-linux-using-command-line)<br>
+This link tells you about how to run processes in linux.
+I think it would be a helpful if you read it. Goodluck.
+
+2. [Fork() in C Programming Language | Engineering Education (EngEd) Program](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+This article is about fork in C programming language.
+Since week 06 explain about fork this might be helpful to undertand the basic of fork more clearly.
+
+
 ## Others
 
 1. [DOTA2](https://www.dota2.com/)<br>
