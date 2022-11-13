@@ -73,3 +73,12 @@ ZCZC W06  90 L05 QUIZ related
 ZCZC W06  40 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06 120 L09 Weekly Assignments
 ZCZC W06  80 L64 Helping friend with OS assignments
+ZCZC W07 180 L00 General and offline class
+ZCZC W07  40 L01 SCELE/Discord related
+ZCZC W07 180 L02 ZOOM meetings related
+ZCZC W07  20 L03 GitHub related
+ZCZC W07  20 L04 GitHub Pages related
+ZCZC W07  90 L05 QUIZ related
+ZCZC W07  40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 120 L09 Weekly Assignments
+ZCZC W07  80 L64 Helping friend with OS assignments

@@ -123,6 +123,12 @@ I think it would be a helpful if you read it. Goodluck.
 This article is about fork in C programming language.
 Since week 06 explain about fork this might be helpful to undertand the basic of fork more clearly.
 
+## W07
+1. [Process Synchronization](https://www.tutorialspoint.com/process-synchronization-in-linux)<br>
+This link is about process synchronization in linux by Tutorialspoint. learning this may help for OS Week 7 lectures.
+
+2. [Semaphore in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+A semaphore is simply an integer variable that is shared between threads. it is a part of process synchronization.
 
 ## Others
 
