@@ -130,6 +130,16 @@ This link is about process synchronization in linux by Tutorialspoint. learning 
 2. [Semaphore in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
 A semaphore is simply an integer variable that is shared between threads. it is a part of process synchronization.
 
+## W08
+
+1. [Linux From Scratch - Wikipedia bahasa Indonesia, ensiklopedia bebas](https://id.wikipedia.org/wiki/Linux_From_Scratch)<br>
+This is a good introduction to understand the concept of Linux From Scratch in Indonesian.
+I couldn't find any better materials in Indonesian to explain the basic concepts of Linux From Scratch.
+I think this might give you a big picture to understand the essentials of Linux From Scratch.<br>
+
+2. [Linux From Scratch - Version 11.0](https://www.linuxfromscratch.org/)<br>
+Official Linux From Scratch Guide. It is really important for this week assignments.
+
 ## Others
 
 1. [DOTA2](https://www.dota2.com/)<br>
