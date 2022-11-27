@@ -140,6 +140,19 @@ I think this might give you a big picture to understand the essentials of Linux 
 2. [Linux From Scratch - Version 11.0](https://www.linuxfromscratch.org/)<br>
 Official Linux From Scratch Guide. It is really important for this week assignments.
 
+## W09
+
+1. [What is RAID 5?](https://rayday.me/comweb/internet/Commodore/commodore/www.commodore.ca/windows/raid5/raid5.htm)<br>
+This is the backup copy of the website mentioned on the course's slide material.
+Even though the UI is kinda unpleasant, the information and visualization are very helpful to help you to understand about RAID 5.
+I recommend this website as a headstart to understand about RAID 5.
+
+2. [RAID level 0, 1, 5, 6 and 10 | Advantage, disadvantage, use](https://www.prepressure.com/library/technology/raid)<br>
+This is a comprehensive article about RAID.
+It has an extensive information about RAID 0, 1, 5, 6, and 10.
+There are some visualization, too, to help you to comprehend the materials better.
+I recommend this article as a headstart to understand the basics of RAID.
+
 ## Others
 
 1. [DOTA2](https://www.dota2.com/)<br>
