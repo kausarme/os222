@@ -153,6 +153,16 @@ It has an extensive information about RAID 0, 1, 5, 6, and 10.
 There are some visualization, too, to help you to comprehend the materials better.
 I recommend this article as a headstart to understand the basics of RAID.
 
+
+## W10 
+
+1. [Linux From Scratch 11.2 Chapter 8](https://www.linuxfromscratch.org/lfs/view/11.2/chapter08/chapter08.html)<br>
+This is a link to Linux from Scratch Chapter 8. This is what we do for this week weekly assignments. Very Helpful to read it cause you need to do it :).
+
+2. [How to Build LFS 11.2 by Kernotex](https://www.youtube.com/watch?v=CES4YHofrjw)<br>
+A video guiding you to make an lfs. I find it very helpful when im not sure about what the instruction means or where to run the commands from the instruction.
+
+
 ## Others
 
 1. [DOTA2](https://www.dota2.com/)<br>
@@ -160,6 +170,6 @@ Are you interested in wasting your time in a game that has no endings.
 Well this link may give you a temporal enjoyment of winning followed by depression because you might just forgot to do your assigments.
 Hehe :3
 
-*More Links to be Added*
+*More Links may be Added*
 
 
